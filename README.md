@@ -1,2 +1,3 @@
 # Zen_portal_MySQL_Task
-![zen Portal db](zen portal design.png)
+![Alt text](./zen%20portal%20design.png)
+
